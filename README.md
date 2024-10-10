@@ -12,10 +12,18 @@ Welcome to **Snake Game**, a classic snake game reimagined with vibrant animatio
 - **Background Music**: Enjoy a captivating soundtrack that plays as you navigate the snake through the game.
 
 ## Usage
-Use the arrow keys (or WASD) to control the snake's movement.
-Collect food to grow your snake and increase your score.
-Avoid running into walls or yourself!
+- **Use the arrow keys (or WASD) to control the snake's movement**.
+- **Collect food to grow your snake and increase your score.**
+- **Avoid running into walls or yourself!**
+  
 ## Background Music
 The game includes background music to enhance your gaming experience. The music file is located in the audio directory and is played automatically when the game starts.
+
 ## Contributing
 Contributions are welcome! If you would like to contribute to the project, please fork the repository and submit a pull request with your changes.
+## Screenshot
+![image](https://github.com/user-attachments/assets/03bdf958-2fd5-4f13-9641-ae35bc5f2ad5)
+## Contact
+For any inquiries, feel free to reach out:
+
+Ritika Kumari -ritikatiwari766@gmail.com
